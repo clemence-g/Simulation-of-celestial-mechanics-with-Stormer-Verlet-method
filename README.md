@@ -1,4 +1,6 @@
-# Celestial Mechanics Simulation  
+# Celestial Mechanics Simulation 
+
+> **Note:** This project was carried out with **Élodie Sorée** for the Numerical Simulation in Physics course at UCLouvain in 2024.
 
 This project aims to model celestial mechanics and compare the Heun method with the Störmer-Verlet method.  
 
