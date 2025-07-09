@@ -6,7 +6,7 @@ This project aims to model celestial mechanics and compare the Heun method with 
 
 ## Contents  
 
-This repository contains four main code files:  
+This repository contains four main code files :  
 
 - **Plots - 3-body system**: Generates plots of various system parameters and the trajectories of the Sun, Saturn, and Jupiter.  
 - **Animation - Sun, Jupiter, and Saturn**: Creates an animated visualization of these three celestial bodies.  
